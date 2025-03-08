@@ -463,13 +463,6 @@ def request_currency(request):
 
 
 
-
-# 상수 정의: Type 모델의 유형값
-INCOME_TYPE = "1"  # 수익
-EXPENSES_TYPE = "2"  # 지출
-SAVINGS_TYPE = "3"  # 저축
-
-
 # 상수 정의: Type 모델의 유형값
 INCOME_TYPE = "1"  # 수익
 EXPENSES_TYPE = "2"  # 지출

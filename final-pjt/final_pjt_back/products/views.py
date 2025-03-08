@@ -531,12 +531,12 @@ def asset_type(request):
 
     참고: 
         type은 자산관리 유형 기준{asset_types}의 id 를 뜻함 해당 고객에 알맞은 타입을 출력
-        customer_avg_expensesd은 해당 고객의 평균지출을 뜻함
+        customer_avg_expensesd은 해당 고객의 평균 지출을 뜻함
         customer_avg_income 해당 고객의 평균 수익을 뜻함
-        customer_avg_savings 해당 고객의 평균지출을 뜻함
-        peer_avg_expenses 전체 고객의 평균지출을 뜻함
-        peer_avg_income 전체 고객의 평균지출을 뜻함
-        peer_avg_savings 전체 고객의 평균지출을 뜻함
+        customer_avg_savings 해당 고객의 평균 저축을 뜻함
+        peer_avg_expenses 전체 고객의 평균 지출을 뜻함
+        peer_avg_income 전체 고객의 평균 수익을 뜻함
+        peer_avg_savings 전체 고객의 평균 저축을 뜻함
 
     
     """
